@@ -7,3 +7,11 @@ Primeiros comandos GIT:
 4. Após criado o repositório deve ser selecionado no GIT o respectivo repositório utilizando o comando "cd nome do repositório"
 5. Após selecionado o repositório no GIT, é preciso iniciar o repositório, utilizando o comando "git init"
 6. Assim o GIT estará pronto para começar a fazer edições de texto utilizando o vim nome do projeto.
+
+Após ter terminado o projeto-
+
+Comandos básicos ao fazer e terminar o projeto:
+
+1- git status - verifica em que situação o projeto se encontra, untracked, unmodified, modified ou staged.
+2- git add nome do projeto - adiciona o arquivo ao repositório GIT, tornando o arquivo modified.
+3. git commit - commita o arquivo tornando ele como staged.
