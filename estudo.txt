@@ -15,3 +15,6 @@ Comandos básicos ao fazer e terminar o projeto:
 1- git status - verifica em que situação o projeto se encontra, untracked, unmodified, modified ou staged.
 2- git add nome do projeto - adiciona o arquivo ao repositório GIT, tornando o arquivo modified.
 3. git commit - commita o arquivo tornando ele como staged.
+4. git log - mostra os commits feitos e mensagens do que foi alterado naquele commit.
+5. git log --graph - mostra em gráficos os commits feitos.
+6. git diff - mostra o que foi alterado em um projeto apenas antes dele ser commitado.
