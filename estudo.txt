@@ -3,4 +3,7 @@ Estudo  sobre GitHub para a atividade da 3º unidade do curso de Qualidade de So
 Primeiros comandos GIT:
 1. Para configurar o GIT em uma máquina nova, é preciso utilizar o comando "git config --global user.name "nome de usuário".
 2. Utilizar o comando git config --global user.email "email" para configurar o email referente ao usuário.
-3.
+3. Após configurar o GIT na máquina, deve ser criado um novo repositório utilizando o comando mkdir nome do repositório
+4. Após criado o repositório deve ser selecionado no GIT o respectivo repositório utilizando o comando "cd nome do repositório"
+5. Após selecionado o repositório no GIT, é preciso iniciar o repositório, utilizando o comando "git init"
+6. Assim o GIT estará pronto para começar a fazer edições de texto utilizando o vim nome do projeto.
